@@ -1,6 +1,5 @@
 ---
 author: Farizdotid
-pubDatetime: 2024-05-11T03:00:00Z
 title: Sharing Session 001
 slug: "sharing-session-001"
 featured: true
