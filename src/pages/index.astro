@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>PWKDev</h1>
+      <h1>LEARN - EXECUTE - COLLABORATION</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -42,19 +42,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        PurwakartaDev adalah suatu komunitas atau wadah berkumpulnya para
+        developer, Khususnya yang menyukai atau minat dalam bidang Programming.
+        PurwakartaDev terbentuk kembali pada tahun 2024. PurwakartaDev akan
+        berfokus pada bidang Web Development, Mobile Development, Game
+        Development, dan Keahlian skill IT lainnya. PurwakartaDev harapannya
+        menjadikan wadah yang bermanfaat dan menjadi wadah untuk eksplorasi
+        skill.
       </p>
       {
         // only display if at least one social link is enabled
@@ -73,7 +67,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Next Sharing Session</h2>
             <ul>
               {featuredPosts.map(({ data, slug }) => (
                 <Card
@@ -92,7 +86,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
+          <h2>Recent Sharing Session</h2>
           <ul>
             {recentPosts.map(
               ({ data, slug }, index) =>
@@ -111,7 +105,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
     <div class="all-posts-btn-wrapper">
       <LinkButton href="/posts/">
-        All Posts
+        All Sharing Session
         <svg xmlns="http://www.w3.org/2000/svg"
           ><path
             d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"

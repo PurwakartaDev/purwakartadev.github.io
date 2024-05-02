@@ -3,34 +3,53 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+PurwakartaDev adalah suatu komunitas atau wadah berkumpulnya para developer,
+Khususnya yang menyukai atau minat dalam bidang Programming. PurwakartaDev terbentuk
+kembali pada tahun 2024. PurwakartaDev akan berfokus pada bidang Web Development,
+Mobile Development, dan Game Development. PurwakartaDev harapannya menjadikan
+wadah yang bermanfaat untuk para developer yang baru memulai ataupun sudah
+berpengalaman dan ingin membagikan pengalamannya ke yang lain.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/logo_pwk_dev_transparent.png" class="sm:w-1/2 mx-auto" alt="Logo Purwakarta Developer">
 </div>
 
-## Tech Stack
+## Kenapa komunitas ini dibuat ?
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Komunitas PurwakartaDev ini dibuat karena :
 
-## Features
+- Sebagai wadah diskusi antar developer
+- Sebagai wadah mempelajari dunia programming terbaru
+- Sebagai wadah untuk membangun relasi antar developer
+- Sebagai wadah untuk mencoba hal hal baru seputar programming
 
-Here are certain features of this site.
+## Tujuan komunitas
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Dengan dibuatnya komunitas ini, kami harap dapat menjadi wadah bagi pada developer
+untuk mengembangkan keahliannya dalam mengembangkan produk digital (perangkat
+lunak/website) Tak hanya itu, kami pun berharap dengan adanya komunitas ini dapat
+memberikan kesempatan bagi teman-teman berkolaborasi untuk mengaplikasikan
+keahliannya dalam pembuatan produk digital Terakhir, dengan bergabungnya teman - teman dalam komunitas ini, harapannya dapat mempersiapkan teman-teman untuk mengikuti kompetisi-kompetisi yang berfokus pada pengembangan produk digital.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+## Visi dan Misi
+
+### Visi
+
+Visi kami adalah menjadi komunitas yang menjadi sumber inspirasi dan wadah utama bagi
+para pengembang di Purwakarta untuk mengembangkan keahlian dalam pengembangan
+produk digital serta menjadi pelopor kolaborasi dan inovasi dalam industri teknologi.
+
+### Misi
+
+- Menyediakan platform diskusi dan belajar yang aktif untuk para pengembang dalam
+  bidang web development, mobile development, dan game development.
+- Membangun hubungan dan jaringan antar pengembang untuk memfasilitasi pertukaran
+  pengetahuan dan pengalaman.
+- Mengadakan acara, workshop, dan kegiatan lainnya yang bertujuan untuk menggali dan
+  mengaplikasikan pengetahuan terbaru dalam dunia pemrograman.
+- Mendorong kolaborasi antar anggota komunitas dalam pembuatan produk digital yang
+  inovatif dan berdaya saing.
+- Memperkuat persiapan anggota komunitas untuk mengikuti kompetisi-kompetisi yang
+  menitikberatkan pada pengembangan produk digital.
+- Berperan aktif dalam memajukan industri teknologi di Purwakarta melalui partisipasi
+  dalam berbagai kegiatan dan inisiatif yang relevan.
