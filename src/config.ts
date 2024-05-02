@@ -7,8 +7,7 @@ export const SITE: Site = {
   title: "PWKDev",
   ogImage: "logo_pwk_dev_transparent.png",
   lightAndDarkMode: true,
-  postPerPage: 3,
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  postPerPage: 5,
 };
 
 export const LOCALE = {
