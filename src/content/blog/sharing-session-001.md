@@ -1,11 +1,11 @@
 ---
 author: Farizdotid
 pubDatetime: 2024-05-11T03:00:00Z
+modDatetime:
 title: Sharing Session 001
-slug: "sharing-session-001"
-ogImage: https://raw.githubusercontent.com/PurwakartaDev/purwakartadev.github.io/main/src/assets/images/sharsess_pwkdev_001.png
+slug: sharing-session-001
 featured: true
-description: "Membahas per-karir-an di dunia IT saat ini"
+description: Membahas per-karir-an di dunia IT saat ini
 tags:
   - programming
 ---
