@@ -9,4 +9,21 @@ tags:
 description: "Membahas per-karir-an di dunia IT saat ini"
 ---
 
-Hello everyone! Wishing you a happy New Year 🎉 and all the best for 2024! We're excited to announce the release of AstroPaper v4, a significant update that introduces a range of new features, improvements, and bug fixes to elevate your blogging experience. A big thank you to all the contributors for their valuable input and efforts in making version 4 possible!
+![Sharing Session 001 - Purwakarta Dev](https://raw.githubusercontent.com/PurwakartaDev/purwakartadev.github.io/main/src/assets/images/sharsess_pwkdev_001.png)
+
+# Pendaftaran
+
+[▶️▶️▶️ DAFTAR DISINI ◀️◀️◀️](https://forms.gle/s8SbkLRM6Q5PSjmv8)
+
+## Tanggal dan Waktu
+
+Hari `Sabtu`, Tanggal `11 Mei 2024`, Jam `10.00 - Selesai`
+
+## Tempat
+
+Gedung Creative Center Purwakarta. [📍 Google Maps GCC Purwakarta](https://maps.app.goo.gl/jtHUjyGAewLBSczx7)
+
+## Materi
+
+- `Fariz Ramadhan` - Berkarir di dunia IT saat ini
+- `Fajar Windhu Zulfikar` - Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working
