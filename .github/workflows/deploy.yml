@@ -2,14 +2,14 @@ name: Deploy Website to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths-ignore:
       - README.md
   workflow_dispatch:
 
 jobs:
   build:
-    name: Build 
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -23,7 +23,7 @@ jobs:
     name: Deploy
     needs: build
     runs-on: ubuntu-latest
-    permissions: 
+    permissions:
       pages: write
       id-token: write
     environment:
