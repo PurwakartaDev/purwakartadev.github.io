@@ -3,7 +3,7 @@ author: Farizdotid
 date: "11 May 2024"
 title: Sharing Session 001
 slug: "sharing-session-001"
-featured: true
+featured: false
 tags:
   - programming
 description: "Membahas per-karir-an di dunia IT saat ini"
