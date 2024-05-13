@@ -25,5 +25,5 @@ Gedung Creative Center Purwakarta. [📍 Google Maps GCC Purwakarta](https://map
 
 ## Materi
 
-- `Fariz Ramadhan` - Berkarir di dunia IT saat ini
-- `Fajar Windhu Zulfikar` - Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working
+- `Fariz Ramadhan` - Berkarir di dunia IT saat ini - [📖 Link Materi](https://docs.google.com/presentation/d/10DhDGtqe43Hjcku3grQ3yDvsEM7L4dIeODW1NB_YApk/edit?usp=sharing)
+- `Fajar Windhu Zulfikar` - Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working - [📖 Link Materi](https://docs.google.com/presentation/d/1ei8sWRNIEbB-ObForGSaJ9pjX1A7VqNd-Da5Wb8oIAU/edit?usp=sharing)
