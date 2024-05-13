@@ -27,3 +27,8 @@ Gedung Creative Center Purwakarta. [📍 Google Maps GCC Purwakarta](https://map
 
 - `Fariz Ramadhan` - Berkarir di dunia IT saat ini - [📖 Link Materi](https://docs.google.com/presentation/d/10DhDGtqe43Hjcku3grQ3yDvsEM7L4dIeODW1NB_YApk/edit?usp=sharing)
 - `Fajar Windhu Zulfikar` - Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working - [📖 Link Materi](https://docs.google.com/presentation/d/1ei8sWRNIEbB-ObForGSaJ9pjX1A7VqNd-Da5Wb8oIAU/edit?usp=sharing)
+
+## Documentation
+
+<img width="1604" alt="Foto bareng #001" src="https://raw.githubusercontent.com/PurwakartaDev/purwakartadev.github.io/main/public/proofdoc/proof_agenda_001.jpg">
+<img width="1604" alt="Foto bareng #001" src="https://raw.githubusercontent.com/PurwakartaDev/purwakartadev.github.io/main/public/proofdoc/proof_agenda_002.jpg">
