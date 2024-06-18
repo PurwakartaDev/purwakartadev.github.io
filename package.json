@@ -1,6 +1,6 @@
 {
   "name": "purwakartadev",
-  "version": "4.2.0",
+  "version": "1.2.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
