@@ -2,6 +2,7 @@ import Fuse from "fuse.js";
 import { useEffect, useRef, useState, useMemo } from "react";
 import Card from "@components/Card";
 import type { CollectionEntry } from "astro:content";
+import useAutoFocus from "hooks/useAutoFocus";
 
 export type SearchItem = {
   title: string;
@@ -40,6 +41,8 @@ export default function SearchBar({ searchList }: Props) {
       }),
     [searchList]
   );
+
+  useAutoFocus(inputRef);
 
   useEffect(() => {
     // if URL has search query,
@@ -93,7 +96,6 @@ export default function SearchBar({ searchList }: Props) {
           value={inputVal}
           onChange={handleChange}
           autoComplete="off"
-          // autoFocus
           ref={inputRef}
         />
       </label>
