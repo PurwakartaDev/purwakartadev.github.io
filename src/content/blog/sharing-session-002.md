@@ -3,7 +3,7 @@ author: Farizdotid
 date: "23 June 2024"
 title: Sharing Session 002
 slug: "sharing-session-002"
-featured: true
+featured: false
 tags:
   - programming
 description: "Web Developer Series: Pengenalan HTML, CSS, dan JavaScript Dasar"
