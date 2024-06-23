@@ -26,3 +26,12 @@ Gedung Creative Center Purwakarta. [📍 Google Maps GCC Purwakarta](https://map
 ## Materi
 
 - `Fajar Windhu Zulfikar` - Web Developer Series: Pengenalan HTML, CSS, dan JavaScript Dasar
+
+## Source Code
+
+[materi source code](https://github.com/PurwakartaDev/web-series/tree/master/1-notes)
+
+## Documentation
+
+<img width="1604" alt="Foto bareng #001" src="https://raw.githubusercontent.com/farizdotid/images_ekraf_pwk/main/pwkdev/doc_pwkdev002_2.jpg">
+<img width="1604" alt="Foto bareng #002" src="https://raw.githubusercontent.com/farizdotid/images_ekraf_pwk/main/pwkdev/doc_pwkdev002_1.jpg">
